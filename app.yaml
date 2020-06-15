@@ -1,0 +1,15 @@
+# runtime is php 7.3
+runtime: php73
+
+# handlers for url
+#handlers:
+## url to accept all
+#  - url: .*
+#    script: auto
+#  # url to map static folders
+#  - url: /images
+#    static_dir: images
+#  - url: /tools
+#    static_dir: tools
+
+# end of app configuration
